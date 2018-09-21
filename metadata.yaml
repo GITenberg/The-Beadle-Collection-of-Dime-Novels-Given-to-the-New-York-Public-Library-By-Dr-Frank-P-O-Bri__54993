@@ -1,0 +1,26 @@
+_repo: The-Beadle-Collection-of-Dime-Novels-Given-to-the-New-York-Public-Library-By-Dr-Frank-P-O-Bri__54993
+_version: 0.0.1
+creator:
+  author:
+    agent_name: New York Public Library
+    aliases:
+    - New York (City). Public Library
+    - New York (N.Y.). Public Library
+    - Library, New York Public
+    gutenberg_agent_id: '33035'
+    url: http://www.gutenberg.org/2009/agents/33035
+description: ''
+gutenberg_issued: '2017-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Beadle Collection of Dime Novels
+
+  Given to the New York Public Library By Dr. Frank P. O''Brien'
+url: http://www.gutenberg.org/ebooks/54993
